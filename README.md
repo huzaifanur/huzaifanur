@@ -28,10 +28,8 @@
 
 Hello! I'm Huzaifa Nur, a passionate Full Stack Developer with over 4 years of experience in the tech industry. I specialize in crafting efficient and reliable software with a keen eye for detail, scalability, and user experience.
 
-I have a diverse set of skills, ranging frontend to backend and deployements. I especially enjoy creating automation solutions other than web development.
+I have a diverse set of skills, frontend , backend and I also especially enjoy creating web automation solutions.
 
-
-In my spare time, I love contributing to open-source projects and exploring the latest technologies. I believe in the power of programming to transform and improve the lives of people around the world.
 
 ---
 
